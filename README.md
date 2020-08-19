@@ -1,4 +1,4 @@
-Informações sobre implementação de um projeto laravel:
+Informações sobre implementação de um projeto laravel: 
 
 Apos a clonagem do projeto no repositório é necessário instalar as dependecias do composer com o comando
 
@@ -8,7 +8,7 @@ Depois da instalação das deprendencias do composer segue a instalação das de
 
 ## npm install
 
-Após a instalação das dependências e necessário configurar o arquivo .env onde encontra-se as configurações do banco de dados. Copie o arquivo .env.example para .env na pasta raiz. Você pode digitar copy .env.example .env se estiver usando o comando Prompt Windows ou cp .env.example .env se estiver usando o terminal linux. Abra o arquivo e configure o banco de dados. Como não houve uma exigência dei preferência ao uso do banco MySQL.
+Após a instalação das dependências é necessário configurar o arquivo .env onde encontra-se as configurações do banco de dados. Copie o arquivo .env.example para .env na pasta raiz. Você pode digitar copy .env.example .env se estiver usando o comando Prompt Windows ou cp .env.example .env se estiver usando o terminal linux. Abra o arquivo e configure o banco de dados. Como não houve uma exigência dei preferência ao uso do banco MySQL.
 
 Para gerar uma nova chave, execute o comando
 
